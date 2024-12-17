@@ -68,7 +68,8 @@ In requirements.txt file
 ---
 
 ## 🖼️ Demo Screenshot
-![Demo Screenshot](demo-screenshot.png)
+<img width="1440" alt="Screenshot 2024-12-17 at 3 32 34 PM" src="https://github.com/user-attachments/assets/c9ec964e-2e50-489e-b8df-4664e44ff53a" />
+
 
 ---
 
