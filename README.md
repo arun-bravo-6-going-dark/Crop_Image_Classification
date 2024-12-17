@@ -81,11 +81,3 @@ Contributions are welcome! Feel free to fork the project and submit a pull reque
 This project is licensed under the **MIT License**.
 
 ---
-
-## 🌐 Connect
-For feedback, connect with **Arun Vignesh Nedunchezhian** on [GitHub](https://github.com/your-username).
-
----
-
-## 📥 Download
-[Download the Project Source Code](https://github.com/your-username/crop-classification-app/archive/refs/heads/main.zip)
